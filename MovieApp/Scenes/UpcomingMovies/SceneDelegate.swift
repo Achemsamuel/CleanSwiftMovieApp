@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  MovieApp
 //
-//  Created by Sammy on 9/21/19.
+//  Created by Achem Samuel on 9/21/19.
 //
 
 import UIKit
